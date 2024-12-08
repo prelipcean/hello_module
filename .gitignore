@@ -1,0 +1,15 @@
+*.o
+*.ko
+*.so
+*.i
+*.cmd
+*.mod
+*.order
+
+*.o.*
+*.ko.*
+*.mod.*
+
+*.symtypes
+*.symvers
+
