@@ -29,3 +29,13 @@ git remote add origin git@github.com:name/hello_module.git
 git push -u origin master
 git log
 ```
+
+### Fetch, pull, modify, commit, push
+```
+git fetch
+git pull
+git status
+git add .
+git commit -m "Commit message" --signoff
+git push
+```
